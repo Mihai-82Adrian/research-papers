@@ -10,7 +10,9 @@ The underlying implementation work may originate from private research environme
 
 ### Zero-Trust Semantic Code Auditing with TypeSafe Jev
 
-A technical whitepaper exploring the use of TypeSafe AI's Jev System One as an external semantic policy evaluator for code produced by autonomous coding agents.
+A technical whitepaper exploring the use of TypeSafe AI's Jev System One
+as an external semantic policy evaluator for code produced by autonomous
+coding agents.
 
 The work examines:
 
@@ -21,7 +23,9 @@ The work examines:
 - audit provenance and reproducibility;
 - the relationship between semantic evaluation, tests, and system replay.
 
-[Open the publication folder](./jev-zero-trust-code-auditing/)
+**[Read the whitepaper (PDF)](./Mihai-Adrian_Mateescu_Zero_Trust_Semantic_Code_Auditing_with_Jev_v1.1.pdf)**
+
+*Version 1.1 · September 2026*
 
 ---
 
